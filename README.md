@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=300&section=header&text=Welcome!'s%20GitHub%20&descAlignY=64&descAlign=67&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=300&section=header&text=Welcome!%20 My GitHub%20&descAlignY=64&descAlign=67&fontColor=FFFFFF)
 
 <p align="center">
 안녕하세요👐<br>
