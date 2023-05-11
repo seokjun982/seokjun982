@@ -33,15 +33,5 @@
 
 <br>
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-![SeokJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokjun982&show_icons=true&theme=tokyonight)
-
-</td><td valign="top" width="50%">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokjun982&layout=compact&theme=gotham)
-
-</td></tr></table>  
 
 <br/>
