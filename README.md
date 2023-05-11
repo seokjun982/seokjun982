@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=300&section=header&text=Welcome!%20My%20GitHub%20&descAlignY=64&descAlign=67&fontColor=FFFFFF)
 
 <p align="center">
-안녕하세요👐<br>
-저의 github에 오신걸 환영합니다.
+안녕하세요<br>
+github에 오신걸 환영합니다.
 </p>
 
 <br>
