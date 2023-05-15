@@ -2,7 +2,7 @@
 
 <p align="center">
 안녕하세요<br>
-github에 오신걸 환영합니다.
+오신걸 환영합니다.
 </p>
 
 <br>
